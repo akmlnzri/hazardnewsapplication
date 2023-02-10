@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HazardNewsApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="link"><a href="https://github.com/akmlnzri">github.com/</a></string>
+</resources>
